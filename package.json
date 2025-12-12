@@ -1,0 +1,14 @@
+{
+  "name": "multinode-provider",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "ethers": "^6.15.0",
+    "eventemitter3": "^5.0.4"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
