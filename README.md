@@ -1,5 +1,5 @@
 # Multinode Ethereum Toolkit
-### This `README.md` was created using ChatGPT because I was too lazy to write a description for this test project myself.😁
+### This `README.md` was created using ChatGPT because I was too lazy to write a description for this project myself.😁
 
 A lightweight infrastructure toolkit for building reliable Ethereum indexers, scanners and analytics services.
 
@@ -161,17 +161,5 @@ blockReader.on('new_block', async (block) => {
 - analytics pipelines
 - monitoring services
 - archive processors
-
----
-
-## Scope and Limitations
-
-- read-only infrastructure
-- no transaction signing
-- no transaction broadcasting
-- no database coupling
-- no opinionated persistence layer
-
-This repository focuses purely on execution reliability and determinism.
 
 ---
