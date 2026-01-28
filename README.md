@@ -1,4 +1,5 @@
 # Multinode Ethereum Toolkit
+### This `README.md` was created using ChatGPT because I was too lazy to write a description for this test project myself.😁
 
 A lightweight infrastructure toolkit for building reliable Ethereum indexers, scanners and analytics services.
 
